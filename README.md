@@ -1,8 +1,5 @@
 ### Hi there
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some side projects
 - 🌱 I’m currently learning Vue.js
 - 🤔 I’m looking for help with AWS hosting configuration 😩
